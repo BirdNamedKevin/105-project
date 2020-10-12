@@ -5,12 +5,15 @@ section {
 section h1,
 section p {
 	text-align: center;
-	color: #454545;
+	font-variant: small-caps;
+	font-family: 'Piedra', cursive;
+	color: #800000;
 }
 section h1 {
-	font: 32px 'Open Sans';
+	font-size: 60px;
 	font-weight: bold;
 }
 section p {
-	font: 16px 'Open Sans';
+	font-size:  48px;
+	font-weight: bolder;
 }
